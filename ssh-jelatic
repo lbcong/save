@@ -1,0 +1,6 @@
+truy cap vao vps cua server jelastic 
+1. cau hinh ssh 
+  a. gerena public key : https://docs.jelastic.com/ssh-generate-key
+  b. copy dan key vao ssh
+2.truy cap vps server thong qua ssh client : ssh 22132@gate.jelastic.tsukaeru.net -p 3022
+3.bay gio ta thao tac voi vps server thong qua ssh
