@@ -1,6 +1,13 @@
 truy cap vao vps cua server jelastic 
-1. cau hinh ssh 
-  a. gerena public key : https://docs.jelastic.com/ssh-generate-key
-  b. copy dan key vao ssh
+1. cau hinh ssh ( dung cho client la` linux)
+  a. gerena public key : https://docs.jelastic.com/ssh-generate-key 
+  b. copy va paste key ssh đó vào phần public key trong setting của jelastic
 2.truy cap vps server thong qua ssh client : ssh 22132@gate.jelastic.tsukaeru.net -p 3022
 3.bay gio ta thao tac voi vps server thong qua ssh
+
+truy cập vào vps của jelatic thông qua putty + vncviewer
+1. tạo ssh key (dùng cho client là window )
+  a. genare key : nhưng lưu lại dưới dạng private key
+  b. copy va paste key ssh đó vào phần public key trong setting của jelastic
+2.cấu hình cho putty
+3.sử dụng vnc để truy cập vào vps thông qua putty
