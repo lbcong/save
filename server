@@ -1,4 +1,5 @@
 1. heroku  >> chưa truy cập vào vps được , deloy web được
 2. jelastic >> truy cập vào vps đc nhưng chỉ 14 ngày
 3. google >> không truy cập vào vps được , deploy web được
-4. codeanywhere >> truy cập vào vps được nhưng tài nguyên quá ít
+4. codeanywhere >> truy cập vào vps được nhưng tài nguyên quá ít , alive quá ít chỉ alive được trên web
+5  c9.io >>> không truy cập vào vps được 
