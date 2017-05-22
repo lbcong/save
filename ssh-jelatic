@@ -11,3 +11,7 @@ truy cập vào vps của jelatic thông qua putty + vncviewer
   b. copy va paste key ssh đó vào phần public key trong setting của jelastic
 2.cấu hình cho putty
 3.sử dụng vnc để truy cập vào vps thông qua putty
+
+
+
+netstat -plant
