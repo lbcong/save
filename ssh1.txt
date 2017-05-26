@@ -1,179 +1,179 @@
-5.141.174.172|root|admin|Russian Federation (RU)
+188.248.151.207|user|user|Saudi Arabia (SA)
 
-1.172.156.73|user|user|Taiwan (TW)
+197.231.143.184|admin|admin|Gabon (GA)
 
-115.4.65.146|sshd|sshd|Korea, Republic of (KR)
+188.248.161.165|user|user|Saudi Arabia (SA)
 
-31.162.62.118|root|admin|Russian Federation (RU)
+103.44.144.51|admin|admin|Unknown (Unknown)
 
-1.168.141.1|user|user|Taiwan (TW)
+118.160.214.86|user|user|Taiwan (TW)
 
-111.252.90.7|user|user|Taiwan (TW)
+161.0.62.147|support|support|Unknown (Unknown)
 
-36.225.217.231|user|user|Taiwan (TW)
+114.25.42.183|user|user|Taiwan (TW)
 
-114.40.92.28|user|user|Taiwan (TW)
+213.181.93.145|admin|password|Spain (ES)
 
-111.240.176.69|user|user|Taiwan (TW)
+110.77.241.14|root|admin|Thailand (TH)
 
-36.227.195.245|user|user|Taiwan (TW)
+59.115.56.106|user|user|Taiwan (TW)
 
-187.49.248.159|admin|adminn|Brazil (BR)
+201.148.117.79|admin|admin|Unknown (Unknown)
 
-114.27.79.160|support|support|Taiwan (TW)
+200.6.137.176|admin|admin|Brazil (BR)
 
-61.224.181.79|user|user|Taiwan (TW)
+122.121.236.177|user|user|Taiwan (TW)
 
-122.118.137.205|user|user|Taiwan (TW)
+188.248.137.181|user|user|Saudi Arabia (SA)
 
-37.28.177.244|user|user|Russian Federation (RU)
+85.233.158.89|support|support|Russian Federation (RU)
 
-211.23.23.69|admin|123|Taiwan (TW)
+111.243.98.141|user|user|Taiwan (TW)
 
-111.240.150.250|user|user|Taiwan (TW)
+88.166.48.91|laura|laura|France (FR)
 
-118.169.58.149|user|user|Taiwan (TW)
+61.227.122.233|user|user|Taiwan (TW)
 
-112.216.86.250|root|admin|Korea, Republic of (KR)
+179.109.1.157|root|root|Brazil (BR)
 
-36.236.91.149|user|user|Taiwan (TW)
+61.227.236.107|support|support|Taiwan (TW)
 
-200.27.199.58|admin|password|Chile (CL)
+178.140.161.184|root|12345|Russian Federation (RU)
 
-89.3.128.68|test|test|France (FR)
+1.163.52.64|user|user|Taiwan (TW)
 
-114.25.225.187|user|user|Taiwan (TW)
+186.226.237.145|user|user|Brazil (BR)
 
-1.160.163.200|user|user|Taiwan (TW)
+176.51.166.137|user|user|Russian Federation (RU)
 
-61.231.164.209|user|user|Taiwan (TW)
+111.240.172.126|user|user|Taiwan (TW)
 
-122.118.29.108|user|user|Taiwan (TW)
+1.161.75.16|user|user|Taiwan (TW)
 
-36.236.200.18|support|support|Taiwan (TW)
+61.231.135.98|user|user|Taiwan (TW)
 
-61.64.151.253|user|user|Taiwan (TW)
+5.137.253.147|user|user|Russian Federation (RU)
 
-85.26.142.116|user|user|Russian Federation (RU)
+111.248.183.151|user|user|Taiwan (TW)
 
-111.243.222.16|user|user|Taiwan (TW)
+220.136.35.148|user|user|Taiwan (TW)
 
-220.137.163.92|user|user|Taiwan (TW)
+220.255.191.118|ubnt|ubnt|Singapore (SG)
 
-186.208.19.113|admin|admin|Brazil (BR)
+36.230.21.247|support|support|Taiwan (TW)
 
-114.39.15.30|support|support|Taiwan (TW)
+166.156.141.67|admin|United States (US)|Unknown
 
-177.102.18.204|admin|admin|Brazil (BR)
+111.252.3.103|user|user|Taiwan (TW)
 
-177.126.88.106|admin|admin|Brazil (BR)
+61.231.152.209|user|user|Taiwan (TW)
 
-1.174.197.34|user|user|Taiwan (TW)
+1.163.169.250|user|user|Taiwan (TW)
 
-186.32.186.58|admin|admin123|Costa Rica (CR)
+36.234.112.233|support|support|Taiwan (TW)
 
-166.156.79.75|admin|United States (US)|Unknown
+201.20.120.154|admin|admin|Brazil (BR)
 
-113.199.70.97|admin|password|Korea, Republic of (KR)
+1.168.27.50|user|user|Taiwan (TW)
 
-114.39.146.37|user|user|Taiwan (TW)
+187.49.248.180|support|support|Brazil (BR)
 
-114.44.7.111|user|user|Taiwan (TW)
+36.226.174.175|user|user|Taiwan (TW)
 
-2.152.41.201|admin|admin|Spain (ES)
+83.56.5.167|1234|1234|Spain (ES)
 
-121.123.141.130|sshd|sshd|Malaysia (MY)
+36.236.206.93|user|user|Taiwan (TW)
 
-114.43.190.22|user|user|Taiwan (TW)
+188.248.145.154|user|user|Saudi Arabia (SA)
 
-36.226.16.87|user|user|Taiwan (TW)
+114.36.46.112|user|user|Taiwan (TW)
 
-219.85.157.227|user|user|Taiwan (TW)
+94.51.46.31|user|user|Russian Federation (RU)
 
-36.231.212.88|user|user|Taiwan (TW)
+191.103.114.26|guest|guest|Unknown (Unknown)
 
-188.248.157.46|user|user|Saudi Arabia (SA)
+114.41.25.193|user|user|Taiwan (TW)
 
-212.232.53.151|admin|admin|Russian Federation (RU)
+84.244.27.92|user|user|Russian Federation (RU)
 
-36.225.96.32|user|user|Taiwan (TW)
+187.103.63.102|admin|admin|Brazil (BR)
 
-41.202.174.38|admin|admin|Sudan (SD)
+92.127.199.0|user|user|Russian Federation (RU)
 
-189.90.36.213|root|root|Brazil (BR)
+114.47.133.121|user|user|Taiwan (TW)
 
-197.231.138.62|admin|admin|Gabon (GA)
+36.227.19.144|user|user|Taiwan (TW)
 
-211.236.192.238|admin|admin|Korea, Republic of (KR)
+111.252.201.117|user|user|Taiwan (TW)
 
-110.77.241.195|root|admin|Thailand (TH)
+188.248.145.176|user|user|Saudi Arabia (SA)
 
-92.49.173.154|support|support|Russian Federation (RU)
+114.43.110.199|user|user|Taiwan (TW)
 
-219.85.42.2|user|user|Taiwan (TW)
+31.27.32.80|admin|admin|Italy (IT)
 
-111.254.136.154|user|user|Taiwan (TW)
+189.90.36.204|root|root|Brazil (BR)
 
-190.102.27.172|admin|admin|Curacao (CW)
+36.231.198.220|user|user|Taiwan (TW)
 
-114.44.132.90|user|user|Taiwan (TW)
+1.164.69.212|user|user|Taiwan (TW)
 
-188.248.173.1|user|user|Saudi Arabia (SA)
+103.43.4.154|user1|123456|Unknown (Unknown)
 
-176.194.31.187|user|user|Russian Federation (RU)
+111.240.214.77|user|user|Taiwan (TW)
 
-109.165.62.140|admin|admin|Russian Federation (RU)
+1.169.150.39|support|support|Taiwan (TW)
 
-188.248.176.47|user|user|Saudi Arabia (SA)
+114.41.86.120|user|user|Taiwan (TW)
 
-188.248.142.203|user|user|Saudi Arabia (SA)
+220.136.158.212|user|user|Taiwan (TW)
 
-1.163.205.206|support|support|Taiwan (TW)
+61.228.42.44|user|user|Taiwan (TW)
 
-111.243.133.164|user|user|Taiwan (TW)
+101.100.185.47|ubnt|ubnt|New Zealand (NZ)
 
-114.33.164.240|user|user|Taiwan (TW)
+111.253.179.221|user|user|Taiwan (TW)
 
-114.39.6.145|support|support|Taiwan (TW)
+111.252.121.94|user|user|Taiwan (TW)
 
-188.248.163.119|user|user|Saudi Arabia (SA)
+1.169.61.216|user|user|Taiwan (TW)
 
-113.197.68.171|admin|admin|French Polynesia (PF)
+61.79.155.202|sshd|sshd|Korea, Republic of (KR)
 
-43.254.118.4|admin|admin|Japan (JP)
+5.139.218.135|admin|admin|Russian Federation (RU)
 
-95.24.238.92|root|12345|Russian Federation (RU)
+1.175.220.218|user|user|Taiwan (TW)
 
-114.43.84.79|user|user|Taiwan (TW)
+217.65.15.64|admin|admin|Russian Federation (RU)
 
-111.240.152.135|user|user|Taiwan (TW)
+188.248.137.69|user|user|Saudi Arabia (SA)
 
-111.240.179.151|user|user|Taiwan (TW)
+49.160.145.227|admin|admin|Korea, Republic of (KR)
 
-201.55.182.220|admin|admin|Brazil (BR)
+103.11.96.24|ftpuser|asteriskftp|Indonesia (ID)
 
-1.171.142.129|support|support|Taiwan (TW)
+118.160.220.180|user|user|Taiwan (TW)
 
-114.26.181.109|user|user|Taiwan (TW)
+111.254.174.65|user|user|Taiwan (TW)
 
-114.39.23.230|user|user|Taiwan (TW)
+111.240.167.51|user|user|Taiwan (TW)
 
-125.231.67.164|user|user|Taiwan (TW)
+111.246.102.179|user|user|Taiwan (TW)
 
-118.160.214.147|user|user|Taiwan (TW)
+219.85.114.127|user|user|Taiwan (TW)
 
-14.64.207.103|sshd|sshd|Korea, Republic of (KR)
+187.237.56.222|admin|default|Mexico (MX)
 
-1.160.57.62|user|user|Taiwan (TW)
+122.118.114.97|user|user|Taiwan (TW)
 
-58.69.17.203|admin|admin|Philippines (PH)
+114.25.203.75|user|user|Taiwan (TW)
 
-186.148.251.205|ubnt|ubnt|Argentina (AR)
+5.145.31.12|guest|guest|Switzerland (CH)
 
-188.248.183.245|user|user|Saudi Arabia (SA)
+78.25.160.229|user|user|Russian Federation (RU)
 
-118.160.238.235|user|user|Taiwan (TW)
+202.51.124.18|admin|admin|Indonesia (ID)
 
-41.222.22.134|admin|admin|Zambia (ZM)
+1.172.74.211|user|user|Taiwan (TW)
 
-208.93.248.2|testing|testing|United States (US)
+95.189.204.244|root|admin|Russian Federation (RU)
