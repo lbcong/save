@@ -1,17 +1,20 @@
- heroku  >> chưa truy cập vào vps được , deloy web được | li
- jelastic >> chỉ deploy web 14 ngày
+ heroku  >> không có domain , không có port , deloy web được | li
+ jelastic >> có domain , có port , truy cập vào vps được , không có sudo , 14 ngày
  google >> không truy cập vào vps được , deploy web được sắp bị khóa
- codeanywhere >> truy cập vào vps được nhưng tài nguyên quá ít , alive quá ít chỉ alive được trên web
- c9.io >>> không truy cập vào vps được 
- codenvy.io >> đang dùng 
+ codeanywhere >> có domain , có port , truy cập vào vps được, tài nguyên quá ít , alive quá ít chỉ alive được trên web
+ c9.io >>> không có domain , không có port , deloy web được  
+ codenvy.io >> có domain , có port , truy cập vào vps được , deloy web được , tài nguyên tốt , bị time out đang giải quyết
  cloudfoundry >>>test
  visual >>>test
  Oracle Cloud (dang test)
  http://www.eatj.com/ (dang test)
- saucelabs (chi vao web duoc thoi gian 1 sesion 1h)
+
+//--------------------------------------------------------------//
  skytap(ko ket noi internet dc) | ChangeMe!
  http://linuxzoo.net/(ko ket noi internet dc)
  
+//-------------------------------------------------------------//
+ saucelabs (chi vao web duoc thoi gian 1 sesion 1h)
  ShiftEdit >>> cui`
  Orion>>cui`
  neutrondrive>>cui`
@@ -22,3 +25,4 @@
  browxy >> cui
  codetasty >>cui
  wakatime>> cui
+
