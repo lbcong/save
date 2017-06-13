@@ -1,18 +1,18 @@
- heroku  >> không có ip , không có port , deloy web được | li
- jelastic >> có ip , có port , truy cập vào vps được , không có sudo , 14 ngày --- layershift cuc manh
- google >> không truy cập vào vps được , deploy web được sắp bị khóa
- codeanywhere >> có ip , có port , truy cập vào vps được, tài nguyên quá ít , alive quá ít chỉ alive được trên web
- c9.io >>> không có ip , không có port , deloy web được  
- codenvy.io >> có ip , có port , truy cập vào vps được , deloy web được , tài nguyên tốt , bị time out đang giải quyết
+ heroku  user>> không có ip , không có port , deloy web được |li 
+ jelastic user>> có ip , có port , truy cập vào vps được , không có sudo , 14 ngày --- layershift cuc manh
+ google user>> không truy cập vào vps được , deploy web được sắp bị khóa
+ codeanywhere root(cabox)>> có ip , có port , truy cập vào vps được, tài nguyên quá ít , alive quá ít chỉ alive được trên web
+ c9.io root>>> không có ip , không có port , deloy web được  
+ codenvy.io root>> có ip , có port , truy cập vào vps được , deloy web được , tài nguyên tốt , bị time out đang giải quyết
 
  visual >>>test
  http://www.eatj.com/ (dang test)
-sourcelair >> không ip , không port ,chỉ up web tĩnh
+sourcelair user>> không ip , không port ,chỉ up web tĩnh
 
 https://www.microsoft.com/handsonlabs >> cho dùng vps window trong 2 tiếng 
 ( dùng để chạy ứng dụng cần tài nguyên trong thời gian ngắn) | Imm3rs!on99
 
-https://dply.co/create >>> vps 2 tiếng root
+https://dply.co/create root>>> vps 2 tiếng root
 
 //--------------------------------------------------------------//
  skytap(ko ket noi internet dc) | ChangeMe!
