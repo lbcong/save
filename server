@@ -4,6 +4,8 @@
  codeanywhere root(cabox)>> có ip , có port , truy cập vào vps được, tài nguyên quá ít , alive quá ít chỉ alive được trên web
  c9.io root>>> không có ip , không có port , deloy web được  
  codenvy.io root>> có ip , có port , truy cập vào vps được , deloy web được , tài nguyên tốt , bị time out đang giải quyết
+https://console.ng.bluemix.net/>>> user >>> ko ip , ko port , deploy web || 30 ngay` || congngu
+
 
  visual >>>test
  http://www.eatj.com/ (dang test)
